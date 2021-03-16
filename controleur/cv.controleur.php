@@ -1,0 +1,1 @@
+<?php require "vue/cv.php"; ?>
